@@ -3,7 +3,7 @@ This Repository is a test for the class known as 'BAIS Professional Preparation'
 
 The following are the base entries relevant to the creation of future repositories for this GitHub:
 
-1. Project Titl
+1. Project Title
 2. Description
 3. Tools Used
 4. Files Used
