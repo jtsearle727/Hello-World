@@ -10,9 +10,9 @@ The following are the base entries relevant to the creation of future repositori
 5. [How to Run The Program](#How-to-Run-The-Program)
 6. [Additional Information](#Additional-Information)
 7. [Formatting](#Formatting)
-   _ [Text](##Text)
-   _ [Wrapping](##Wrapping)
-   _ [Special](##Special)
+   - [Text](##Text)
+   - [Wrapping](##Wrapping)
+   - [Special](##Special)
 
 # Project Title
 This is where the title goes. <br>
@@ -70,10 +70,10 @@ Lists = Using either numbers (1, 2, 3) or symbols (*, +, -) to break up lines:
 2. B
 3. C
 
-Nested Lists = When making a list, indent with a tab and use an underscore line below your value to indicate indentation.
+Nested Lists = When making a list, indent with a tab and use an dash below your value to indicate indentation.
 - 1
-  _ 2
-    _ 3
+  - 2
+    - 3
 
 Footnotes = At the end of a line in need of a footnode add an up karat and a number in square brackets. <br\>
 Then, once you have that at the end of the line you need, create a seperate line starting with that and a colon to create your explanation.:
