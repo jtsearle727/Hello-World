@@ -43,15 +43,15 @@ Any additional notes or comments regarding the overall project or it's various u
 # Formatting
 
 ## Text
-Italics = Wrap in 1 asterisk: *italic*
-Bold = Wrap in 2 asterisks: **bold**
-Bolded Italics = Wrap in 3 asterisks: ***bold italics***
-Strikethrough = Wrap in 2 tildes: ~~Strikethrough~~
+Italics = Wrap in 1 asterisk: *italic* <br\>
+Bold = Wrap in 2 asterisks: **bold** <br\>
+Bolded Italics = Wrap in 3 asterisks: ***bold italics*** <br\>
+Strikethrough = Wrap in 2 tildes: ~~Strikethrough~~ <br\>
 
 
 ## Wrapping
 Quoted Text = Put a right karat in front of desired text: 
-> Quoted Text <br\>
+> Quoted Text 
 
 Paragraph Quote = Like python, wrap lines in three single quotes
 '''
