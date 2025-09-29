@@ -19,20 +19,20 @@ This is where the title goes. <br>
 - *Note: Make it clear yet succinct - don't leave it up to interpretation what your code is or does.*
 
 # Description
-This is where you talk about generally what a program does/is meant to do. <br\>
+This is where you talk about generally what a program does/is meant to do. <br>
 - *Note: This is a general description. The function of the rest of your code can be explained below.*
 
 # Tools Used
-This is where you list IDEs, such as Spyder, Intellij, Jupyter Notebook, Visual Studio Code, etc. <br\>
+This is where you list IDEs, such as Spyder, Intellij, Jupyter Notebook, Visual Studio Code, etc. <br>
 - *Note: Include the languages in which you used, and what pre-installed dependencies/modules (if any) need to be installed for your code to work.*
 
 # Files Used
-This is where dependent files will be listed, as well as their file datatype and purpose for the general code. <br\>
+This is where dependent files will be listed, as well as their file datatype and purpose for the general code. <br>
 - *Note: Dependencies are very important here! There order of which and how they're incorporated is important to clarify.*
 - *Note: If they can't understand how one begins to use the program, it could lead to them overlooking you or your work.*
 
 # How to Run The Program
-This is instructions for any interviewers or recruiters to run and utilize your code. <br\>
+This is instructions for any interviewers or recruiters to run and utilize your code. <br>
 - *Note: The above two are very important for achieving this in the manner of getting to this part.*
 - *Note: This is the overall instructions when it's time to perform the program's function, not the preparation to get what you need to run the program.*
 
@@ -43,10 +43,10 @@ Any additional notes or comments regarding the overall project or it's various u
 # Formatting
 
 ## Text
-Italics = Wrap in 1 asterisk: *italic* <br\>
-Bold = Wrap in 2 asterisks: **bold** <br\>
-Bolded Italics = Wrap in 3 asterisks: ***bold italics*** <br\>
-Strikethrough = Wrap in 2 tildes: ~~Strikethrough~~ <br\>
+Italics = Wrap in 1 asterisk: *italic* <br>
+Bold = Wrap in 2 asterisks: **bold** <br>
+Bolded Italics = Wrap in 3 asterisks: ***bold italics*** <br>
+Strikethrough = Wrap in 2 tildes: ~~Strikethrough~~ <br>
 
 
 ## Wrapping
@@ -75,7 +75,7 @@ Nested Lists = When making a list, indent with a tab and use an dash below your 
   - 2
     - 3
 
-Footnotes = At the end of a line in need of a footnode add an up karat and a number in square brackets. <br\>
+Footnotes = At the end of a line in need of a footnode add an up karat and a number in square brackets. <br>
 Then, once you have that at the end of the line you need, create a seperate line starting with that and a colon to create your explanation.:
 
 Lorem Ipsum Docet[^1]
