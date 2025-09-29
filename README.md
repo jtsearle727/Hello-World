@@ -10,9 +10,9 @@ The following are the base entries relevant to the creation of future repositori
 5. [How to Run The Program](#How-to-Run-The-Program)
 6. [Additional Information](#Additional-Information)
 7. [Formatting](#Formatting)
-   - [Text](##Text)
-   - [Wrapping](##Wrapping)
-   - [Special](##Special)
+   - [Text](#Text)
+   - [Wrapping](#Wrapping)
+   - [Special](#Special)
 
 # Project Title
 This is where the title goes. <br>
