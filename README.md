@@ -53,12 +53,12 @@ Strikethrough = Wrap in 2 tildes: ~~Strikethrough~~ <br>
 Quoted Text = Put a right karat in front of desired text: 
 > Quoted Text 
 
-Paragraph Quote = Like python, wrap lines in three single quotes
-'''
+Paragraph Quote = Like python, wrap lines in three back ticks ` (tilde key w/o shift)
+```
 Quoted 1
 Quoted 2
 Quoted 3
-'''
+```
 
 ## Special
 
